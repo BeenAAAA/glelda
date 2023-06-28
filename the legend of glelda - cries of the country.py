@@ -114,7 +114,7 @@ while (800 >= screennum):
     screennum = screennum + 1
 t.clear()
 wn.bgcolor("white")
-
+#hewo
 
 else: # Hey YOU! if you delete this it will BREAK the option to start the minigames!!!!
     print("wowoowowowowoo")
