@@ -44,7 +44,7 @@ pen.speed(9)
 pen.circle(100)
 
 print("1: play full game")
-print("2: ULTRA FUN™ games")
+print("2: ULTRA FUN™ games that wont work rn")
 startgameQ = input ("would you like to play the full game, or play the ULTRA FUN™ minigames?")
 
 if startgameQ == "1": #hey ben, if you delete the stuff  inside this, your history. love been.
@@ -114,7 +114,4 @@ while (800 >= screennum):
     screennum = screennum + 1
 t.clear()
 wn.bgcolor("white")
-#hewo
 
-else: # Hey YOU! if you delete this it will BREAK the option to start the minigames!!!!
-    print("wowoowowowowoo")
